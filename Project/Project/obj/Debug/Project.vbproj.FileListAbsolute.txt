@@ -1,0 +1,74 @@
+G:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\bin\Debug\Project.exe.config
+G:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\bin\Debug\Project.exe
+G:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\bin\Debug\Project.pdb
+G:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\bin\Debug\Project.xml
+G:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.vbproj.AssemblyReference.cache
+G:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.Form1.resources
+G:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.Resources.resources
+G:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.vbproj.GenerateResource.cache
+G:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.vbproj.CoreCompileInputs.cache
+G:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.exe
+G:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.xml
+G:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.pdb
+C:\Users\chun\Desktop\Project\Project\bin\Debug\Project.exe.config
+C:\Users\chun\Desktop\Project\Project\bin\Debug\Project.exe
+C:\Users\chun\Desktop\Project\Project\bin\Debug\Project.pdb
+C:\Users\chun\Desktop\Project\Project\bin\Debug\Project.xml
+C:\Users\chun\Desktop\Project\Project\obj\Debug\Project.vbproj.AssemblyReference.cache
+C:\Users\chun\Desktop\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\chun\Desktop\Project\Project\obj\Debug\Project.Resources.resources
+C:\Users\chun\Desktop\Project\Project\obj\Debug\Project.vbproj.GenerateResource.cache
+C:\Users\chun\Desktop\Project\Project\obj\Debug\Project.vbproj.CoreCompileInputs.cache
+C:\Users\chun\Desktop\Project\Project\obj\Debug\Project.exe
+C:\Users\chun\Desktop\Project\Project\obj\Debug\Project.xml
+C:\Users\chun\Desktop\Project\Project\obj\Debug\Project.pdb
+C:\Users\Flucus\Downloads\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Flucus\Downloads\Project\Project\bin\Debug\Project.exe
+C:\Users\Flucus\Downloads\Project\Project\bin\Debug\Project.pdb
+C:\Users\Flucus\Downloads\Project\Project\bin\Debug\Project.xml
+C:\Users\Flucus\Downloads\Project\Project\obj\Debug\Project.vbproj.AssemblyReference.cache
+C:\Users\Flucus\Downloads\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\Flucus\Downloads\Project\Project\obj\Debug\Project.Resources.resources
+C:\Users\Flucus\Downloads\Project\Project\obj\Debug\Project.vbproj.GenerateResource.cache
+C:\Users\Flucus\Downloads\Project\Project\obj\Debug\Project.vbproj.CoreCompileInputs.cache
+C:\Users\Flucus\Downloads\Project\Project\obj\Debug\Project.exe
+C:\Users\Flucus\Downloads\Project\Project\obj\Debug\Project.xml
+C:\Users\Flucus\Downloads\Project\Project\obj\Debug\Project.pdb
+D:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\bin\Debug\Project.exe.config
+D:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\bin\Debug\Project.exe
+D:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\bin\Debug\Project.pdb
+D:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\bin\Debug\Project.xml
+D:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.vbproj.AssemblyReference.cache
+D:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.Form1.resources
+D:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.Resources.resources
+D:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.vbproj.GenerateResource.cache
+D:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.vbproj.CoreCompileInputs.cache
+D:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.exe
+D:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.xml
+D:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.pdb
+F:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\bin\Debug\Project.exe.config
+F:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\bin\Debug\Project.exe
+F:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\bin\Debug\Project.pdb
+F:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\bin\Debug\Project.xml
+F:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.vbproj.AssemblyReference.cache
+F:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.Form1.resources
+F:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.Resources.resources
+F:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.vbproj.GenerateResource.cache
+F:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.vbproj.CoreCompileInputs.cache
+F:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.exe
+F:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.xml
+F:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.pdb
+E:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\bin\Debug\Project.exe.config
+E:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\bin\Debug\Project.exe
+E:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\bin\Debug\Project.pdb
+E:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\bin\Debug\Project.xml
+E:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.vbproj.AssemblyReference.cache
+E:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.Form1.resources
+E:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.Resources.resources
+E:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.vbproj.GenerateResource.cache
+E:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.vbproj.CoreCompileInputs.cache
+E:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.exe
+E:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.xml
+E:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.pdb
+C:\Users\Flucus\Downloads\Project\Project\obj\Debug\Project.Form2.resources
+G:\FS113002 - Information Technology\ITE3711\Group Project\Project\Project\obj\Debug\Project.Form2.resources
